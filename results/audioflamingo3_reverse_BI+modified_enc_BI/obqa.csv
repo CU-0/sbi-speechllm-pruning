@@ -1,0 +1,12 @@
+model,openbookqa_accuracy,openbookqa_format_error_rate,overall_accuracy,overall_format_error_rate
+audioflamingo3_pruned_enc0_dec0,0.4923,0.3099,0.4923,0.3099
+audioflamingo3_pruned_enc0_dec1,0.4967,0.2462,0.4967,0.2462
+audioflamingo3_pruned_enc0_dec2,0.3868,0.1604,0.3868,0.1604
+audioflamingo3_pruned_enc0_dec3,0.3297,0.1956,0.3297,0.1956
+audioflamingo3_pruned_enc0_dec4,0.3011,0.2462,0.3011,0.2462
+audioflamingo3_pruned_enc0_dec5,0.2154,0.4945,0.2154,0.4945
+audioflamingo3_pruned_enc0_dec6,0.2132,0.6593,0.2132,0.6593
+audioflamingo3_pruned_enc0_dec7,0.0198,0.9363,0.0198,0.9363
+audioflamingo3_pruned_enc0_dec8,0.0044,0.978,0.0044,0.978
+audioflamingo3_pruned_enc0_dec9,0.0,1.0,0.0,1.0
+audioflamingo3_pruned_enc0_dec10,0.0,1.0,0.0,1.0

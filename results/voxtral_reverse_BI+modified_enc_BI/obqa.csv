@@ -1,0 +1,12 @@
+model,openbookqa_accuracy,openbookqa_format_error_rate,overall_accuracy,overall_format_error_rate
+voxtral_pruned_enc0_dec0,0.633,0.0176,0.633,0.0176
+voxtral_pruned_enc0_dec1,0.6198,0.0154,0.6198,0.0154
+voxtral_pruned_enc0_dec2,0.0462,0.9055,0.0462,0.9055
+voxtral_pruned_enc0_dec3,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec4,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec5,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec6,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec7,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec8,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec9,0.0,1.0,0.0,1.0
+voxtral_pruned_enc0_dec10,0.0,1.0,0.0,1.0

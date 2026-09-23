@@ -1,0 +1,12 @@
+model,Phonology_accuracy,Phonology_format_error_rate,Semantics_accuracy,Semantics_format_error_rate,Speaker Traits_accuracy,Speaker Traits_format_error_rate,Speaking Style_accuracy,Speaking Style_format_error_rate,overall_accuracy,overall_format_error_rate
+audioflamingo3_pruned_enc0_dec0,0.584,0.0,0.776,0.0,0.52,0.0,0.408,0.0,0.572,0.0
+audioflamingo3_pruned_enc0_dec1,0.56,0.0,0.768,0.0,0.528,0.0,0.408,0.0,0.566,0.0
+audioflamingo3_pruned_enc0_dec2,0.552,0.0,0.736,0.0,0.472,0.0,0.416,0.0,0.544,0.0
+audioflamingo3_pruned_enc0_dec3,0.56,0.0,0.656,0.0,0.456,0.0,0.352,0.0,0.506,0.0
+audioflamingo3_pruned_enc0_dec4,0.408,0.0,0.528,0.008,0.472,0.0,0.392,0.0,0.45,0.002
+audioflamingo3_pruned_enc0_dec5,0.472,0.056,0.488,0.064,0.312,0.024,0.368,0.048,0.41,0.048
+audioflamingo3_pruned_enc0_dec6,0.536,0.096,0.568,0.096,0.376,0.008,0.384,0.056,0.466,0.064
+audioflamingo3_pruned_enc0_dec7,0.368,0.392,0.504,0.16,0.312,0.128,0.232,0.368,0.354,0.262
+audioflamingo3_pruned_enc0_dec8,0.024,0.824,0.088,0.52,0.136,0.4,0.032,0.808,0.07,0.638
+audioflamingo3_pruned_enc0_dec9,0.136,0.488,0.144,0.384,0.304,0.152,0.064,0.752,0.162,0.444
+audioflamingo3_pruned_enc0_dec10,0.088,0.576,0.152,0.4,0.192,0.28,0.144,0.512,0.144,0.442

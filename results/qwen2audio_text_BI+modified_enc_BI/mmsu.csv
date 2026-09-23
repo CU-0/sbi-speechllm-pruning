@@ -1,0 +1,22 @@
+model,Phonology_accuracy,Phonology_format_error_rate,Semantics_accuracy,Semantics_format_error_rate,Speaker Traits_accuracy,Speaker Traits_format_error_rate,Speaking Style_accuracy,Speaking Style_format_error_rate,overall_accuracy,overall_format_error_rate
+qwen2audio_pruned_enc0_dec0,0.576,0.0,0.704,0.0,0.432,0.0,0.384,0.0,0.524,0.0
+qwen2audio_pruned_enc0_dec1,0.584,0.0,0.688,0.0,0.416,0.0,0.384,0.0,0.518,0.0
+qwen2audio_pruned_enc0_dec2,0.552,0.008,0.696,0.0,0.416,0.0,0.352,0.0,0.504,0.002
+qwen2audio_pruned_enc0_dec3,0.544,0.008,0.688,0.0,0.424,0.0,0.424,0.0,0.52,0.002
+qwen2audio_pruned_enc0_dec4,0.528,0.016,0.648,0.016,0.44,0.0,0.36,0.0,0.494,0.008
+qwen2audio_pruned_enc0_dec5,0.432,0.04,0.56,0.024,0.384,0.0,0.352,0.008,0.432,0.018
+qwen2audio_pruned_enc0_dec6,0.552,0.008,0.688,0.0,0.36,0.04,0.376,0.0,0.494,0.012
+qwen2audio_pruned_enc0_dec7,0.512,0.024,0.688,0.008,0.408,0.0,0.384,0.0,0.498,0.008
+qwen2audio_pruned_enc0_dec8,0.52,0.024,0.712,0.008,0.384,0.0,0.392,0.048,0.502,0.02
+qwen2audio_pruned_enc0_dec9,0.2,0.672,0.232,0.648,0.096,0.784,0.12,0.76,0.162,0.716
+qwen2audio_pruned_enc0_dec10,0.208,0.672,0.2,0.744,0.048,0.888,0.12,0.704,0.144,0.752
+qwen2audio_pruned_enc1_dec0,0.568,0.0,0.704,0.0,0.448,0.0,0.376,0.0,0.524,0.0
+qwen2audio_pruned_enc2_dec0,0.568,0.0,0.68,0.0,0.456,0.0,0.352,0.0,0.514,0.0
+qwen2audio_pruned_enc3_dec0,0.56,0.0,0.672,0.0,0.44,0.0,0.344,0.0,0.504,0.0
+qwen2audio_pruned_enc4_dec0,0.56,0.0,0.664,0.0,0.416,0.0,0.368,0.0,0.502,0.0
+qwen2audio_pruned_enc5_dec0,0.56,0.0,0.672,0.0,0.456,0.0,0.36,0.0,0.512,0.0
+qwen2audio_pruned_enc6_dec0,0.576,0.0,0.68,0.0,0.448,0.0,0.328,0.0,0.508,0.0
+qwen2audio_pruned_enc7_dec0,0.568,0.0,0.68,0.0,0.464,0.0,0.336,0.0,0.512,0.0
+qwen2audio_pruned_enc8_dec0,0.576,0.0,0.68,0.0,0.416,0.0,0.336,0.0,0.502,0.0
+qwen2audio_pruned_enc9_dec0,0.568,0.0,0.664,0.0,0.44,0.0,0.288,0.0,0.49,0.0
+qwen2audio_pruned_enc10_dec0,0.544,0.0,0.672,0.0,0.392,0.0,0.312,0.0,0.48,0.0

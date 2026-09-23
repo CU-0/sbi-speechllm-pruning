@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.safetensors
+.env
+env.sh
+venv_qwen7b/
+venv_audioflamingo3/
+run_mix_sweeps.sh
+trace.json

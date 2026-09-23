@@ -1,0 +1,12 @@
+model,wer
+qwen2audio_pruned_enc0_dec0,0.08270676691729323
+qwen2audio_pruned_enc0_dec1,0.08270676691729323
+qwen2audio_pruned_enc0_dec2,0.106203007518797
+qwen2audio_pruned_enc0_dec3,0.19454887218045114
+qwen2audio_pruned_enc0_dec4,0.3223684210526316
+qwen2audio_pruned_enc0_dec5,0.6334586466165414
+qwen2audio_pruned_enc0_dec6,0.7133458646616542
+qwen2audio_pruned_enc0_dec7,0.7772556390977443
+qwen2audio_pruned_enc0_dec8,0.8308270676691729
+qwen2audio_pruned_enc0_dec9,1.0328947368421053
+qwen2audio_pruned_enc0_dec10,1.0921052631578947

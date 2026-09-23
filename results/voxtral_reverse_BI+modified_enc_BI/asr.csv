@@ -1,0 +1,12 @@
+model,wer
+voxtral_pruned_enc0_dec0,0.06860902255639098
+voxtral_pruned_enc0_dec1,0.106203007518797
+voxtral_pruned_enc0_dec2,0.38627819548872183
+voxtral_pruned_enc0_dec3,3.0197368421052633
+voxtral_pruned_enc0_dec4,2.0385338345864663
+voxtral_pruned_enc0_dec5,2.9483082706766917
+voxtral_pruned_enc0_dec6,2.531015037593985
+voxtral_pruned_enc0_dec7,4.8656015037593985
+voxtral_pruned_enc0_dec8,5.704887218045113
+voxtral_pruned_enc0_dec9,5.930451127819549
+voxtral_pruned_enc0_dec10,5.970864661654136
